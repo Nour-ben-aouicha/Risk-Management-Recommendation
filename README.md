@@ -6,7 +6,8 @@ We initiated the project by extracting content from PMBOK and PMI risk managemen
 
 ### Text Analysis and Modeling 📊
 Moving forward, we delved into advanced text analysis, including summarization, keyword extraction, and topic modeling using Gensim. Visualization of these topics was achieved using the PyLDAvis library, providing an insightful representation:<br><br>
-![393846391_190744340730509_4711644479992431814_n](https://github.com/Nour-ben-aouicha/Risk-Management-Recommendation/assets/92543024/4f07c76b-0c7c-4201-a4a0-0232b8adc6da)
+![Capture](https://github.com/Nour-ben-aouicha/Risk-Management-Recommendation/assets/92543024/fd57d4d1-bd35-4b43-8285-60aecceff346)
+
 <br>
 ### Graph Modeling 🌐
 Graph modeling is the pivotal phase, where we employed NetworkX and Matplotlib to visualize taxonomic and non-taxonomic relationships in a directed graph. This not only enhanced text processing through stemming and concept association but also facilitated a deeper understanding of entity relationships.<br>
